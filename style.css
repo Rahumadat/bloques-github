@@ -1,0 +1,23 @@
+#sec1 {
+    height: 300px;
+    width: 200px;
+    background-color: darkturquoise;
+    display: flex;
+    justify-content: center;
+}
+#sec2 {
+    height: 300px;
+    width: 200px;
+    display: flex;
+}
+#sec3 {
+    height: 300px;
+    width: 200px;
+    display: flex;    
+}
+article>img {
+    height: 200px;
+}
+footer {
+    align-content: center;
+}

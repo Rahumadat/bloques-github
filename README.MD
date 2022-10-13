@@ -1,0 +1,1 @@
+#ejercicio de recrear bloques con imagenes alineadas
